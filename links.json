@@ -1,0 +1,5 @@
+[
+  { "id": "company", "label": "회사 소개서 다운로드", "url": "" },
+  { "id": "product", "label": "제품 소개서 다운로드", "url": "" },
+  { "id": "ir", "label": "IR 자료 다운로드", "url": "" }
+]
